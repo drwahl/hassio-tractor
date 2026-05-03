@@ -2,6 +2,8 @@
 
 Home Assistant setup for tractor hour tracking, maintenance scheduling, and implement inventory. Run once to create everything; manage it from the HA dashboard after that.
 
+![Dashboard](dashboard.png)
+
 ## What it sets up
 
 - **Hour logging** — log sessions with start/end time, usage category, and active implements. Tap "Start Now" when you head out, "End & Log" when you're done.
